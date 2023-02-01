@@ -1,0 +1,3 @@
+def palindromo(n):
+
+
